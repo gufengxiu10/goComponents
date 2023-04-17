@@ -1,4 +1,4 @@
-module github.com/gufengxiu10/go-components
+module github.com/gufengxiu10/goComponents
 
 go 1.20
 
